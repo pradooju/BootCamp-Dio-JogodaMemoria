@@ -1,2 +1,2 @@
-# pradooju-pradooju-BootCamp-Dio-JogodaMemoria
+BootCamp-Dio-JogodaMemoria
 Desafio jogo da memória
